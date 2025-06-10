@@ -6,31 +6,31 @@
 
 
 ___
-## Содержание
+## Содержание :book:
 - [Технологии](#технологии)
 - [Использование](#Использование)
 - [Contributing](#contributing)
 - [Команда проекта](#команда-проекта)
 ___
-## Технологии
+## Технологии :rocket:
 - [Paper Api](https://papermc.io/)
 - [Snacke Yaml](https://bitbucket.org/snakeyaml/snakeyaml/src/master/)
 - [Maven](https://maven.apache.org/)
 
 ___
-## Использование
+## Использование :wrench:
 Для того чтобы начать пользоватся плагином CustomCrafts просто скачайте последний релиз этого репозитория и поместите jar файл в директорию плагинов вашего сервера.
 
 ___
-### Требования
+### Требования :pushpin:
 Для установки и запуска плагина, необходима [**Java**](https://www.java.com/) Версии 8 и новей.
 
 ___
-## Команда Проекта
+## Команда Проекта :shirt:
 Оставьте пользователям контакты и инструкции, как связаться с командой разработки.
 
 - [Zalmandrag](https://github.com/Zalmandrag) — Java Developer
 
-## Источники
+## Источники :closed_book:
 - [Вопрос на Rubikkit](https://rubukkit.org/threads/sozdanie-kastomnyx-kraftov.175515/)
 - [Отладка YouTube: ClusterStorm](https://www.youtube.com/watch?v=dUPOXSAZsf0) 
