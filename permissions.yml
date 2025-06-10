@@ -1,0 +1,4 @@
+# Параметр CustomCrafts определяет разрешение (пермишон) которое необходимо получить игроку если тот хочет выполнить команду /CustomCrafts
+CustomCrafts: 'customcrafts.customcrafts'
+# Параметр CustomCrafts определяет разрешение (пермишон) которое необходимо получить игроку если тот хочет выполнить команду /CustomCrafts reload
+CustomCraftsReload: 'customcrafts.reload'

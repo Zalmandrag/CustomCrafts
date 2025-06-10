@@ -1,0 +1,9 @@
+name: CustomCrafts
+version: '1.0'
+main: org.Zalmandrag.customCrafts.CustomCrafts
+api-version: '1.21'
+prefix: AutoRestart
+authors: [Zalmandrag]
+commands:
+  CustomCrafts:
+
