@@ -9,12 +9,13 @@ ___
 ## Содержание :book:
 - [Технологии](#технологии)
 - [Использование](#Использование)
+- [Wiki](#Wiki)
 - [Contributing](#contributing)
 - [Команда проекта](#команда-проекта)
 ___
 ## Технологии :rocket:
 - [Paper Api](https://papermc.io/)
-- [Snacke Yaml](https://bitbucket.org/snakeyaml/snakeyaml/src/master/)
+- [Snake Yaml](https://bitbucket.org/snakeyaml/snakeyaml/src/master/)
 - [Maven](https://maven.apache.org/)
 
 ___
@@ -24,10 +25,14 @@ ___
 ___
 ### Требования :pushpin:
 Для установки и запуска плагина, необходима [**Java**](https://www.java.com/) Версии 8 и новей.
-
+___
+## Wiki :green_book:
+Если вы хотите погрузиться в документацию плагина загляните на [Wiki](https://github.com/Zalmandrag/CustomCrafts/wiki) страницу этого репозитория
+___
+## Contrebuting :art:
+Если вы хотите внести свой вклад в мой плагин  или вы нашли баг то создайте ветку в разделе [обусждений](https://github.com/Zalmandrag/CustomCrafts/discussions) моего репозитория и я как можно скорее отвечу вам на вашу идею!
 ___
 ## Команда Проекта :shirt:
-Оставьте пользователям контакты и инструкции, как связаться с командой разработки.
 
 - [Zalmandrag](https://github.com/Zalmandrag) — Java Developer
 
